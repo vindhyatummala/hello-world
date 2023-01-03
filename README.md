@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-This is my sample repository md file.
+This is my sample repository md file with new changes.
